@@ -1,1 +1,4 @@
 # Compensatory-mechanisms-for-Antimicrobial-Resistance
+We described a network-based approach to uncover gene regulatory networks underlying resistance phenotypes to rank prioritize combinations of molecules that target multiple vulnerabilities within a pathogen. We demonstrated that this strategy could enable the recovery of “lost” antibiotics by identifying new vulnerabilities that emerge within transcriptional and metabolic networks to manage tradeoff in fitness upon gain of resistance. This repository contains data and an R notebook used for generating the results reported in the manuscript:
+
+Arrieta-Ortiz, M.L., Pan, M., Kaur, A., Srinivas, V., Dash, A., Immanuel, S.R.C., and Baliga, N.B. Disrupting the ArcA regulatory network increases tetracycline susceptibility of Tet<sup>R</sup> *Escherichia coli*. bioRxiv. https://doi.org/10.1101/2020.08.31.275693 
